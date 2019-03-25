@@ -1,6 +1,8 @@
 # ubp2019-lab4-basics
 ## Teacher name:
-Javi
+EL Xavi Alonso
 ## Student list
+
 Sofi Cantarelli
+Gonzalo
 
