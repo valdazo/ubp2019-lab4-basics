@@ -1,0 +1,4 @@
+# Ignorar todos los files de la extension .ignore
+*.ignore
+# Excepto por el file especificamente llamado donot.ignore
+!donot.ignore
