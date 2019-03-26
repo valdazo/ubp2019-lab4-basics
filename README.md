@@ -3,4 +3,6 @@
 EL Xavi Alonso
 ## Student list
 Flor
+Emiliano
+Sofi Cantarelli
 Gonzalo
