@@ -2,7 +2,6 @@
 ## Teacher name:
 EL Xavi Alonso
 ## Student list
-
+Emiliano
 Sofi Cantarelli
 Gonzalo
-
